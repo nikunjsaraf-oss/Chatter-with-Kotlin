@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24664215151",
+    "project_id": "chatter-kotlin",
+    "storage_bucket": "chatter-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24664215151:android:f1c117d39599d033b1479a",
+        "android_client_info": {
+          "package_name": "com.nsaraf.chatter_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24664215151-e49k5atkfthr4qbuntqv261pv1dt31d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC63A0CJYKh7-Oel0whB5moDg660A5pT_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24664215151-e49k5atkfthr4qbuntqv261pv1dt31d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
